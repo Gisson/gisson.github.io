@@ -17,6 +17,8 @@ Msc degree in Computer Science and Engineering with specialization in Distribute
  - April 2019 - Today: Site Reliability Engineer at [Unbabel](unbabel.com).
 
 
+
+For more info check out my [CV](doc/CV.pdf).
 ## Technologies
  - Terraform
  - Kubernetes
