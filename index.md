@@ -16,6 +16,7 @@ Msc degree in Computer Science and Engineering with specialization in Distribute
  - September 2018 - April 2019: Systems administrator consultant at [Syone](https://www.syone.com/).
  - April 2019 - March 2020: Site Reliability Engineer at [Unbabel](https://unbabel.com).
  - March 2020 - Today: Sr. Devops Engineer at [Onfido](https://onfido.com/)
+ - October 2023 - Today: Sr. SRE at [Singlestore](https://www.singlestore.com/)
 
 
 
