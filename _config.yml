@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
 title: Jorge Heleno
 description: SRE@Singlestore
-logo: img/gisson.jpg
+logo: assets/images/gisson.jpg
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
